@@ -1,6 +1,3 @@
-// day_night.cpp
-
-
 #include <GLFW/glfw3.h>
 #include <cmath>
 #include <string>
